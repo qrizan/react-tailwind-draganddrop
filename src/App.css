@@ -1,0 +1,10 @@
+.break-anywhere {
+  overflow-wrap: anywhere;
+}
+
+textarea {
+  border: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}
