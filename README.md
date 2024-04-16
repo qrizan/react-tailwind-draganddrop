@@ -1,5 +1,15 @@
 ## Kanban Board
 
+#### built with
+
+| Tools  |  |
+| :--- | :--- |
+| React  | https://react.dev  |
+| Tailwind CSS | https://tailwindcss.com  |
+| rbd | https://github.com/atlassian/react-beautiful-dnd |
+| etc |  |
+
+
 #### running
 ```
 cd react-tailwind-draganddrop
